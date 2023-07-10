@@ -58,7 +58,6 @@
             <stringProp name="JSONPostProcessor.jsonPathExprs">$.code</stringProp>
             <stringProp name="JSONPostProcessor.match_numbers">1</stringProp>
             <stringProp name="Scope.variable">HTTP Request</stringProp>
-            <boolProp name="JSONPostProcessor.compute_concat">true</boolProp>
             <stringProp name="JSONPostProcessor.defaultValues">CodeNotFound</stringProp>
           </JSONPostProcessor>
           <hashTree/>
